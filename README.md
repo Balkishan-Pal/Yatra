@@ -24,7 +24,8 @@ we just have to add images
 
 This is the Landing page when the user enters the website for the first time this page will show up.
 
-![2021-11-13 (1)](https://user-images.githubusercontent.com/46128997/141647014-4a4bf530-5b57-45d9-918f-4ca01b011f63.png)
+![2021-11-13 (1)](https://user-images.githubusercontent.com/86410071/144030063-60113840-0e83-4dc6-a159-ca408192428b.png)
+
 
 
 
